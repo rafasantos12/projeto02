@@ -9,6 +9,16 @@ Isso adiciona um passo extra ao seu fluxo de trabalho para que as alterações s
 
 (npm install nodemon -g) - Instalar Nodemon 
 
+O express-validator foi utilizado junto ao Node.js com o express, para realizar a validação dos dados de entrada na API.
+
+(npm install --save express-validator) -Instalar Express Validator
+
+Consig, importamos os módulos e vamos utilizar algumas funções do express, com a static que indica onde estarão nossas views e estamos utilizando o bodyParser para falar que nosso formato padrão de dados é o json.
+
+npm install consign --save
+
+npm install body-parser --save
+
 com os modulos completos, no terminal o usuário poderá executar os seguintes comandos :
 
 
