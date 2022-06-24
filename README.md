@@ -33,6 +33,3 @@ Rotas:
 /notica 
 
 /noticias
-
-mysql -u root -p
-
