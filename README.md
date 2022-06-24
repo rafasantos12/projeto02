@@ -11,6 +11,8 @@ Através de meu blog, divulgarei informações científicas, matérias e conteú
 
 O objetivo é garantir a inclusão, a cidadania plena de todas as pessoas com TDAH no Brasil, contribuindo para ampliação da educação e o conhecimento da população sobre o assunto, A meta sera sempre: oferecer capacitação para que cada vez mais o transtorno possa ser identificado, diagnosticado e tratado corretamente.
 
+CONSIFERAÇÕES:
+
 **No Node.js, é necessário reiniciar o processo para fazer com que as alterações sejam ativadas. Para eliminar esse passo extra usamos o nodemon para reiniciar o processo automaticamente.**
 
 express-validator foi utilizado junto ao Node.js, para realizar a validação dos dados de entrada na API.**
