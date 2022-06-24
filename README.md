@@ -18,7 +18,7 @@ npm install consign --save
 
 npm install body-parser --save
 
-com os modulos completos, no terminal o usuário poderá executar os seguintes comandos :
+Com as funções instaladas, no terminal o usuário poderá executar os seguintes comandos :
 
 
 nodemon app - abrir o projeto
