@@ -13,6 +13,7 @@ O express-validator foi utilizado junto ao Node.js com o express, para realizar 
 Consig, importamos os módulos e vamos utilizar algumas funções do express, com a static que indica onde estarão nossas views e estamos utilizando o bodyParser para falar que nosso formato padrão de dados é o json.
 
 
-PAGINA INICIAL/AREA DE NOTICIAS
+AREA DE NOTICIAS
 
-![pagina inicial](https://user-images.githubusercontent.com/102121949/175668022-321e4aae-ec0f-425c-9115-503b4a7e0aaf.png)
+![TDAH](https://user-images.githubusercontent.com/102121949/175672421-8c4ae11d-a602-45c0-a3c2-0d375e107180.png)
+
