@@ -39,6 +39,7 @@ mysql -u root -p
 
 
 
+ja para o banco de dados foi utilizado o MySQL.
 Estrutura para criação do Banco de dados 
 
 
