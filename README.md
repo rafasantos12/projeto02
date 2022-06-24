@@ -4,7 +4,7 @@ Projeto apresentado ao professor Willian Hubner como requisito de Nota final.
 
 
 No Node.js, é necessário reiniciar o processo para fazer com que as alterações sejam ativadas. 
-Para eliminar esse passo extra usanmos o o nodemon para reiniciar o processo automaticamente.
+Para eliminar esse passo extra usamos  o nodemon para reiniciar o processo automaticamente.
 
 (npm install nodemon -g) - Instalar Nodemon 
 
