@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Treino NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Souza Santos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "consign": "^0.1.6",
+    "ejs": "^3.1.7",
+    "ejs-lint": "^0.1.1",
+    "express": "^4.18.0",
+    "express-validator": "^3.2.0",
+    "firebase": "^9.8.3",
+    "global": "^4.4.0",
+    "mysql": "^2.18.1",
+    "safe-buffer": "^5.2.1",
+    "safer-buffer": "^2.1.2",
+    "side-channel": "^1.0.4",
+    "toidentifier": "^1.0.1"
+  }
+}

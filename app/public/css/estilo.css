@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+
+p{
+	text-align: justify;
+
+}
+
+* {
+
+	margin: 0;
+	padding: 0;
+    font-family: "Sarala";
+	
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+
+
+#area-cabecalho {
+	background-color: #FFA500;
+	padding: 15px;
+	text-align: center;
+}
+
+#area-logo, #area-menu {
+	padding: 5px;
+}
+
+#area-principal {
+
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+	text-align: left;
+	min-height: 100vh;
+	
+}
+
+#area-postagens {
+	width: 800px;
+	float: left;
+	
+	
+}
+
+
+.postagem{
+	padding: 30px;
+	margin-bottom: 20px;
+	background: rgb(255, 255, 255);
+	box-sizing: border-box;
+	border: 1px solid #e7a218;
+	border-radius: 5px;
+	
+}
+
+.postagem2{
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 20px;
+	background: rgb(255, 255, 255);
+	box-sizing: border-box;
+	border: 1px solid #e7a218;
+	border-radius: 10px;
+}
+
+
+
+
+.conteudo-lateral a{
+	padding: 5px;
+}
+
+
+#rodape {
+	
+	bottom: 0;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	padding-top:10px;
+	background: #e7a218;
+	
+}
+
+
+#area-contato {
+	padding: 10px;
+}
+
+
+a {
+	text-decoration: none;	
+}
+
+a:link, a:visited {
+	color: #0c0c0c;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited {
+	color: #FFF;
+	padding: 2px 12px;
+}
+
+#area-cabecalho a:hover {
+	color: #020202;
+	background: #FFF;
+	text-decoration: none;
+	box-sizing: border-box;
+	border: 1px solid #070707;
+	border-radius: 10px;
+	
+}
+
+
+h1 {
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+h2, .noticia_titulo {
+	color: #e7a218;
+}
+
+h3 {
+	color: #565656;
+	background: #CCC;
+	padding: 5px;
+}
+
+.branco{
+	color: white;
+}
+
+.data-postagem {
+	font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+form {
+	margin: 0 auto;
+	width: 400px;
+	padding: 4em;
+	border: 1px solid #ccc;
+	border-radius: 1em;
+	margin-bottom: 65px;
+	margin-top: 30px;
+
+}
+form div + div {
+	
+	margin-top: 1em;
+
+}
+label {
+	display: inline-block;
+	width: 75px;
+	text-align: right;
+	
+}
+input,
+textarea {
+	font: 1em sans-serif;
+	border-radius: 5px;
+	width: 300px;
+	box-sizing: border-box;
+	border: 1px solid #999;
+	
+}
+input:focus,
+textarea:focus {
+	border-color: rgb(107, 96, 96);
+}
+textarea {
+	vertical-align: top;
+
+	height: 5em;
+}
+
+.input{
+	padding: 10px;
+	text-align: center;
+	font-weight: 700;
+}
+
+
+.button {
+	display: flex;
+	justify-content: center;
+}
+
+.btn-submit{
+	padding: 10px;
+	width: 200px;
+	border-radius: 10px;
+	transition: 0.4s ease-in;
+}
+
+.btn-submit:hover{
+	letter-spacing: 2px;
+}
+
+.hidden{
+	display: none;
+}
+
+button {
+	margin-left: 0.5em;
+}
+
+#textocontato{
+	
+	
+	width: 694px;
+	text-align: justify;
+	margin-left: 115px;
+	margin-top: 20px;
+	box-sizing: border-box;
+	border: 2px solid #e7a218;
+	border-radius: 10px;
+	padding: 10px;	
+
+}

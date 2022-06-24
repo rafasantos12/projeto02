@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blog TDAH Descomplicado</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="css/estilo.css" />
+    </head>
+    <body>
+        
+        <div id="area-cabecalho">
+            <div id="png">
+                <img width="120px" src="images\favicon.webp">
+            </div>
+            
+           <div id="area-logo">
+                <h1>TDAH<span class="branco">Descomplicado</span></h1>
+            </div>
+            <div id="area-menu">
+                <strong>
+                 <a href="/">Pagina Inicial</a>
+                 <a href="/sobre">Mais sobre o TDAH</a>
+
+                 <a href="/quemsomos">Quem Somos</a>
+                 <a href="/contato">Fale Conosco </a>
+                </strong>
+             </div>
+        </div>
+
+        <div id="area-principal">
+            <div id="area-postagens">
+                <% for(i = 0; i < noticias.length; i++){   %>
+                    <div class="postagem">
+                        <h2><%= noticias[i].titulo%>></h2>
+                        <span class="data-postagem"><%= noticias[i].data_criacao%></span>
+                        <p><%= noticias[i].noticia %></p>
+                        <strong><a href="/noticia?id_noticia=<%= noticias[i].id_noticia%>">Leia mais</a></strong>
+                    </div>
+                <%}%>
+                
+                
+            </div>
+        </div>
+
+     
+         
+        
+    </body>
+</html>
