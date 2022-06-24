@@ -7,9 +7,9 @@ Express Validator, Consign, EJS, MySQL, Body Parser.
 
 TdahDescomplicado é um blog de um aluno com TDAH, sem fins lucrativos com o objetivo de disseminar informações sobre o Transtorno do Déficit de Atenção/Hiperatividade (TDAH); 
 
-Através de seu site, divulgarei informações científicas, matérias e conteúdos atualizados sobre TDAH.
+Através de meu blog, divulgarei informações científicas, matérias e conteúdos atualizados sobre TDAH.
 
-No esforço de lutar para garantir a inclusão, a cidadania plena de todas as pessoas com TDAH no Brasil, contribuindo para ampliação da educação e o conhecimento da população sobre o assunto, A meta sera sempre: oferecer capacitação para que cada vez mais o transtorno possa ser identificado, diagnosticado e tratado corretamente.
+O objetivo é garantir a inclusão, a cidadania plena de todas as pessoas com TDAH no Brasil, contribuindo para ampliação da educação e o conhecimento da população sobre o assunto, A meta sera sempre: oferecer capacitação para que cada vez mais o transtorno possa ser identificado, diagnosticado e tratado corretamente.
 
 **No Node.js, é necessário reiniciar o processo para fazer com que as alterações sejam ativadas. Para eliminar esse passo extra usamos o nodemon para reiniciar o processo automaticamente.**
 
